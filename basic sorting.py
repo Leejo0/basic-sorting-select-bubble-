@@ -33,3 +33,5 @@ def bubblesortfast(A):
 A = [10,4,19,2,1]
 selectionsort(A,len(A))
 print(A)
+bubblesortfast(A)
+print(A)
